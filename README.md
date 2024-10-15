@@ -1,0 +1,1 @@
+Vectorized Structured Kernel Pruning
