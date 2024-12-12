@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github.com/IDSL-SeoulTech/V-SKP/blob/master/figure/fig1_overall_structure.png" align="center" width="776" height="400"/>
 </p>
+
 ## Abstract
 
 In recent years, kernel pruning, which offers the advantages of both weight and filter pruning
